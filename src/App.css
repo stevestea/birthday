@@ -1,0 +1,24 @@
+.body {
+    background-image: url(https://38.media.tumblr.com/5ee6dfe67f0b245ee5ca3445f97be960/tumblr_nl0fgnWc6A1qhmypro1_1280.gif);
+    background-attachment: fixed;
+}
+.title {
+    font-size: 120px;
+    font-weight: bolder;
+    margin-top: 0px;
+    margin-left: 130px;
+    color: white;
+    margin-bottom: 0px;
+}
+.noidung1 {
+    font-size: 50px;
+    color:white;
+    margin-left: 170px;
+    margin-right: 170px;
+    text-align: center;
+    
+    background-color: black;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
+}
